@@ -1,0 +1,2 @@
+.App{font-family:Arial,Helvetica,sans-serif;text-align:center}.userName{font-size:18px}.todo__Title{margin:auto}.status{width:20%}.status:before{content:"Not completed";margin-right:15px;color:#be0f0f}.status--completed:before{content:"Comleted";color:#1eff00}.todoList{display:flex;flex-direction:column;justify-content:center;align-items:center}.todoList__item{display:flex;justify-content:space-between;width:80%;margin-bottom:10px;padding:30px;border-radius:5px;background-color:rgba(225,230,189,.7);list-style:none}
+/*# sourceMappingURL=main.ca5e7207.chunk.css.map */
